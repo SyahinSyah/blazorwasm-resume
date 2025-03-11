@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnet-resume")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2fa7a193adf7469ecc2e06b69ba3d4f16d63c50")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnet-resume")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnet-resume")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

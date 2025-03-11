@@ -1,7 +1,5 @@
 C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
 C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js
-C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\dotnet-resume.3ac94tbwtq.pdb
-C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\dotnet-resume.g87cj8wf52.wasm
 C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\dotnet.js
 C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\dotnet.js.map
 C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\dotnet.native.8bti36lthm.js
@@ -223,7 +221,6 @@ C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\Sys
 C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\System.Net.Quic.s4ubipsvtg.wasm.gz
 C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\System.Collections.NonGeneric.ov3c11r7df.wasm.gz
 C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\System.Drawing.zptejx9h1x.wasm.gz
-C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\dotnet-resume.g87cj8wf52.wasm.gz
 C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.0a4vr959d1.wasm.gz
 C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.9j9suo3916.wasm.gz
 C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\System.Security.Cryptography.Cng.324weailu2.wasm.gz
@@ -310,7 +307,6 @@ C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\Mic
 C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.zdk8f4csh4.wasm.gz
 C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.a04lrarvcj.wasm.gz
 C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\System.Text.Encoding.wuo0ag8www.wasm.gz
-C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\dotnet-resume.3ac94tbwtq.pdb.gz
 C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\System.Security.AccessControl.uiaucge1bp.wasm.gz
 C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\System.Collections.cgl25682z4.wasm.gz
 C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\Microsoft.VisualBasic.gcchvdkxdm.wasm.gz
@@ -1064,9 +1060,6 @@ C:\Users\Lenovo\syahin new\dotnet-resume\obj\Debug\net9.0\compressed\80ytb8b6hs-
 C:\Users\Lenovo\syahin new\dotnet-resume\obj\Debug\net9.0\compressed\ccz6pb738g-tjcz0u77k5.gz
 C:\Users\Lenovo\syahin new\dotnet-resume\obj\Debug\net9.0\compressed\ln3naeaoz9-tptq2av103.gz
 C:\Users\Lenovo\syahin new\dotnet-resume\obj\Debug\net9.0\compressed\kljcedt7o1-lfu7j35m59.gz
-C:\Users\Lenovo\syahin new\dotnet-resume\obj\Debug\net9.0\compressed\4bhtrc2gb2-g87cj8wf52.gz
-C:\Users\Lenovo\syahin new\dotnet-resume\obj\Debug\net9.0\compressed\i7jeludxen-3ac94tbwtq.gz
-C:\Users\Lenovo\syahin new\dotnet-resume\obj\Debug\net9.0\compressed\932ohs8mvl-72s7581k9f.gz
 C:\Users\Lenovo\syahin new\dotnet-resume\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Lenovo\syahin new\dotnet-resume\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Lenovo\syahin new\dotnet-resume\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -1081,3 +1074,11 @@ C:\Users\Lenovo\syahin new\dotnet-resume\obj\Debug\net9.0\dotnet-resume.dll
 C:\Users\Lenovo\syahin new\dotnet-resume\obj\Debug\net9.0\refint\dotnet-resume.dll
 C:\Users\Lenovo\syahin new\dotnet-resume\obj\Debug\net9.0\dotnet-resume.pdb
 C:\Users\Lenovo\syahin new\dotnet-resume\obj\Debug\net9.0\ref\dotnet-resume.dll
+C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\dotnet-resume.mkfcgfqiyh.pdb
+C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\dotnet-resume.d57uvwqcqb.wasm
+C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\dotnet-resume.d57uvwqcqb.wasm.gz
+C:\Users\Lenovo\syahin new\dotnet-resume\bin\Debug\net9.0\wwwroot\_framework\dotnet-resume.mkfcgfqiyh.pdb.gz
+C:\Users\Lenovo\syahin new\dotnet-resume\obj\Debug\net9.0\dotnet-resume.sourcelink.json
+C:\Users\Lenovo\syahin new\dotnet-resume\obj\Debug\net9.0\compressed\4bhtrc2gb2-d57uvwqcqb.gz
+C:\Users\Lenovo\syahin new\dotnet-resume\obj\Debug\net9.0\compressed\i7jeludxen-mkfcgfqiyh.gz
+C:\Users\Lenovo\syahin new\dotnet-resume\obj\Debug\net9.0\compressed\932ohs8mvl-09rb9i53py.gz
